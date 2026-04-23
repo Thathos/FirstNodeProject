@@ -1,0 +1,19 @@
+{
+  "name": "week_15_concept_video_follow_along",
+  "version": "1.0.0",
+  "description": "this is my first node js project",
+  "license": "ISC",
+  "author": "rc",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
